@@ -1,1 +1,1 @@
-Hello Git!
+bye Git!
